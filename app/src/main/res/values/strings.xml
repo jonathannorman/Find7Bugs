@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntervjuTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="MainHeader">Betsson Test Tester</string>
+    <string name="button">Betsson Test Tester</string>
+    <string name="button1">Betsson Test Tester</string>
+    <string name="button2">Betsson Test Tester</string>
+    <string name="button3">Betsson Test Tester</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
